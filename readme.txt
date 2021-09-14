@@ -1,4 +1,4 @@
-=== WWooCommere to Sendy ===
+=== WooCommere to Sendy ===
 Contributors: finalwebsites
 Tags: woocommerce, sendy, sendy subscriptions, woocommerce mailer, sendy mailer
 Requires at least: 4.0.1

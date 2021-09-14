@@ -15,9 +15,9 @@ Add customer email address from your WooCommerce store to Sendy when they opt-in
 
 Features:
 
-*   Option to connect with your sendy
-*   Option to select/enter name of list
-*   All the users who make a successful purchase will be added to list.
+*   Option to connect with your Sendy application
+*   Option to select/enter the name of your mailing list
+*   All the users who make a successful purchase will be added to list (use them for after sales mailings).
 
 
 == Installation ==

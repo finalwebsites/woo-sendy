@@ -2,12 +2,12 @@
 Contributors: finalwebsites
 Tags: woocommerce, sendy, sendy subscriptions, woocommerce mailer, sendy mailer
 Requires at least: 4.0.1
-Tested up to: 5.0.5
+Tested up to: 5.8.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add customer email address from your WooCommerce store to Sendy when they opt-in during the checkout process at your WooCommerce store.
+Add customer email addresses from your WooCommerce store to Sendy when they opt-in during the checkout process at your WooCommerce store.
 
 == Description ==
 
@@ -15,9 +15,9 @@ Add customer email address from your WooCommerce store to Sendy when they opt-in
 
 Features:
 
-*   Option to connect with your Sendy application
+*   Option to connect your Sendy application
 *   Option to select/enter the name of your mailing list
-*   All the users who make a successful purchase will be added to list (use them for after sales mailings).
+*   Option: All the users who make a successful purchase will be added to list too (to use them for after sales mailings).
 
 
 == Installation ==
